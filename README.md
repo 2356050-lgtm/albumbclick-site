@@ -1,2 +1,2 @@
 # Album BeClick site
-Test: https://m.albumbclick.co.il
+Test: https://new.albumbclick.co.il
